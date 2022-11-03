@@ -1,7 +1,7 @@
 # word-frequency
 ## turnitin word frequency exercice
 
-This is a Java Spring Boot project demonstrating a single POST API endpoint to process and return the frequency of words within an array in descending order.
+This is a Java Spring Boot project demonstrating a single POST API endpoint to process and return the frequency of words within a collection in descending order.
 
 Software needed to run this project: 
 
