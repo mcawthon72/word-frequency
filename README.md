@@ -7,10 +7,9 @@ Software needed to run this project:
 
 - openjdk-19
 - Java version 17
+- maven
 
 To run: 
-
-(Assuming you have maven installed on your machine)
 
 Commands: 
 
